@@ -2,7 +2,7 @@
 === `_id`
 
 Each document indexed is associated with an id and a type. The `_id`
-field can be used to index just the id, and possible also store it. By
+field can be used to index just the id, and possibly also store it. By
 default it is not indexed and not stored (thus, not created).
 
 Note, even though the `_id` is not indexed, all the APIs still work
